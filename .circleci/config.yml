@@ -13,4 +13,13 @@ jobs:
       - run:
           name: install dependencies
           command: npm install
+   
+   test-2:
+    docker:
+      - image: cimg/node:17.1.0
+    steps:
+      - checkout
+      - run:
+          name: install dependencies
+          command: npm install
       
