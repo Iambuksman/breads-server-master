@@ -4,7 +4,7 @@ workflows:
   test-deploy:
     jobs:
       - test
-      - test 2
+      - test-2
 jobs:
   test:
     docker:
