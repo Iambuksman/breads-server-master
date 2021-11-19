@@ -1,3 +1,5 @@
+I am using this repository to learn CircleCI. Repo isn't mine.
+
 # Breads API
 
 An Express REST API service, Python web scraper, and MySQL database for [breads.io](https://www.breads.io/). See [breads-client](https://github.com/aTmb405/breads-client) for front end code and more details about the project.
